@@ -1,7 +1,7 @@
 ## Deep Learning: Convolutional Neural Network (CNN) for image classification
 Convolutional Neural Network in python tensorflow for classification with Fashion MNIST dataset
-Collaboration: Md Ismail Alam Mokul and Shadman Raihan
-(python, tensorflow, keras, scikitlearn, pandas)
+##### Collaboration: Md Ismail Alam Mokul and Shadman Raihan
+##### (python, tensorflow, keras, scikitlearn, pandas)
 
 - Basic CNN
   - 2 convolutional layer each followed by a Maxpool and dropout layer
